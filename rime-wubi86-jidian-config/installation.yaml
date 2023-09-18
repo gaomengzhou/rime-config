@@ -1,6 +1,7 @@
-distribution_code_name: Weasel
-distribution_name: "小狼毫"
-distribution_version: 0.14.3
+distribution_code_name: Squirrel
+distribution_name: "鼠鬚管"
+distribution_version: 0.16.2
 install_time: "Tue Nov  1 15:04:13 2022"
 installation_id: "ab162ee3-e664-48dd-9c32-893f0db11b2c"
-rime_version: 1.5.3
+rime_version: 1.8.5
+update_time: "Mon Sep 18 19:32:39 2023"
